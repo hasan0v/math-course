@@ -1,0 +1,1124 @@
+AZƏRBAYCAN LİSEY RİYAZİYYATI (9-11-Cİ SİNİF) - 10 ƏSAS MÖVZU
+Rəsmi mənbələr: Azərbaycan Respublikası Təhsil Nazirliyi, Təhsil İnstitutu (ARTI), Dövlət İmtahan Mərkəzi (DİM)
+
+MÖVZU 1: Kvadratik Funksiya və Onun Qrafiki
+Kurikulum Konteksti: 9-cu sinif, III Bölmə - Funksiyalar və Qrafiklər
+
+Şagird Üçün İzah:
+
+Kvadratik funksiya riyaziyyatın ən maraqlı və praktik mövzularından biridir. Bu funksiya y = ax² + bx + c şəklində yazılır, burada a, b və c əmsallardır və a ≠ 0 olmalıdır. Kvadratik funksiyanın qrafiki parabola adlanır və ya yuxarı, ya da aşağı açılan U formasında olur.
+
+Əgər a > 0 olarsa, parabola yuxarı açılır (gülümsəyən üz kimi). Əgər a < 0 olarsa, parabola aşağı açılar (kədərli üz kimi). Funksiyanın ən yüksək və ya ən aşağı nöqtəsinə təpə nöqtəsi (vertex) deyilir. Bu nöqtə x = -b/(2a) düsturu ilə tapılır.
+
+Kvadratik funksiyalar real həyatda çox işlədilir: top atanda onun yolu parabola şəklində olur, körpülərin qövsləri, avtomobil fənərinin işığının yayılması, hətta biznes sahəsində mənfəət-xərc hesablamaları bu funksiya ilə ifadə olunur. Funksiya y = a(x - m)² + n formasında yazdıqda, (m, n) təpə nöqtəsinin koordinatlarını birbaşa görürük. Parabola ox ilə kəsişmə nöqtələri diskriminant (D = b² - 4ac) ilə tapılır: D > 0 olarsa 2 kəsişmə nöqtəsi, D = 0 olarsa 1 kəsişmə (toxunma), D < 0 olarsa kəsişmə yoxdur.
+
+İnteraktiv Animasiya:
+
+Ekranda y = ax² + bx + c funksiyasının qrafiki göstərilir. İstifadəçi 3 sürüşdürücü (slider) görür:
+
+a əmsalı sürüşdürücüsü (-5-dən +5-ə qədər): Onu sürüşdürdükcə parabolanın açılma istiqaməti və enliyi dəyişir
+b əmsalı sürüşdürücüsü (-10-dan +10-a qədər): Parabola sağa-sola hərəkət edir
+c əmsalı sürüşdürücüsü (-10-dan +10-a qədər): Parabola yuxarı-aşağı paralel köçür
+Sağ tərəfdə real-vaxt rejimində göstərilir:
+
+Təpə nöqtəsinin koordinatları (xᵥ, yᵥ)
+Diskriminantın qiyməti və ox ilə kəsişmə nöqtələrinin sayı
+Funksiyanın artma/azalma intervalları
+Y-kəsişmə nöqtəsi (0, c)
+İstifadəçi sürüşdürücüləri dəyişdirdikcə parabola animasiyalı şəkildə formasını dəyişir, təpə nöqtəsi işıqlı nöqtə kimi vurğulanır.
+
+Nümunə Məsələ:
+
+y = 2x² - 8x + 6 funksiyasının qrafikini qurun və təpə nöqtəsini tapın.
+
+Həll addımları:
+
+Əmsalları müəyyənləşdiririk: a = 2, b = -8, c = 6
+
+Təpə nöqtəsinin x-koordinatını tapırıq: xᵥ = -b/(2a) = -(-8)/(2×2) = 8/4 = 2
+
+Təpə nöqtəsinin y-koordinatını tapırıq: yᵥ = 2(2)² - 8(2) + 6 = 8 - 16 + 6 = -2
+
+Təpə nöqtəsi: (2, -2)
+
+Y-kəsişmə nöqtəsi: x = 0 qoyuruq → y = 6, yəni (0, 6)
+
+X-kəsişmə nöqtələri üçün diskriminant: D = b² - 4ac = (-8)² - 4(2)(6) = 64 - 48 = 16 > 0
+
+x₁,₂ = (8 ± √16)/(2×2) = (8 ± 4)/4 x₁ = 3, x₂ = 1
+
+Kəsişmə nöqtələri: (1, 0) və (3, 0)
+
+Nəticə: a = 2 > 0 olduğundan parabola yuxarı açılır, minimum nöqtəsi (2, -2)-dir
+
+Ev Tapşırıqları:
+
+Tədqiqat tapşırığı: Futbol oyunçusu topu 20 m/s sürətlə 45° bucaq altında vurur. Topun yolu h(t) = -5t² + 14t + 2 funksiyası ilə verilir (h - metr, t - saniyə). Topun maksimum yüksəkliyini və hansı məsafədə yerə düşdüyünü hesablayın. Nəticələri qrafiklə göstərin.
+
+Real həyat layihəsi: Evinizin və ya məktəbinizin yaxınlığında qövsşəkilli tikili (körpü, qapı, pəncərə) tapın. Onun fotoşəkilini çəkin, koordinat sistemi qurun və parabolanın tənliyini təxmini olaraq müəyyənləşdirin.
+
+MÖVZU 2: Xətti Tənliklər Sistemi
+Kurikulum Konteksti: 9-cu sinif, V Bölmə - Tənliklər və Tənliklər Sistemi
+
+Şagird Üçün İzah:
+
+Xətti tənliklər sistemi iki və ya daha çox naməlumu eyni anda tapmaq üçün istifadə olunan güclü alətdir. Real həyatda çox zaman bir deyil, bir neçə naməlumu eyni vaxtda tapmaq lazım gəlir. Məsələn, mağazada alma və armudun qiymətini bilmirsinizsə, amma iki müxtəlif alışın ümumi qiymətini bilirsinizsə, xətti tənliklər sistemi quraraq hər birinin qiymətini tapa bilərsiniz.
+
+İki dəyişənli xətti tənliklər sistemi:
+
+a₁x + b₁y = c₁
+a₂x + b₂y = c₂
+Sistemin həlli üçün 3 əsas üsul var:
+
+1. Əvəzetmə üsulu: Bir tənlikdən bir dəyişəni ifadə edib digər tənliyə əvəz edirik.
+
+2. Toplama (cəmləmə) üsulu: Tənlikləri elə vururuq ki, toplayan zaman bir dəyişən yox olsun.
+
+3. Qrafik üsulu: Hər iki tənliyin qrafikini çəkib kəsişmə nöqtəsini tapırıq.
+
+Sistemin həlli üç cür ola bilər:
+
+Tək həll: İki düz xətt bir nöqtədə kəsişir (ən çox rast gəlinən vəziyyət)
+Sonsuz həll: İki düz xətt üst-üstə düşür (eyni xəttdir)
+Həll yoxdur: İki düz xətt paraleldir və heç vaxt kəsişmir
+İnteraktiv Animasiya:
+
+Ekranda koordinat müstəvisi və iki xətti tənlik göstərilir:
+
+Tənlik 1: a₁x + b₁y = c₁
+Tənlik 2: a₂x + b₂y = c₂
+İstifadəçi hər bir tənlik üçün əmsalları (a₁, b₁, c₁) və (a₂, b₂, c₂) interaktiv olaraq dəyişə bilir. Dəyişdikdə:
+
+Hər iki düz xətt real-vaxt rejimində yenidən çəkilir
+Xətlər fərqli rənglərdə göstərilir (məsələn, göy və qırmızı)
+Əgər kəsişmə nöqtəsi varsa, o nöqtə yaşıl rəngli dairə ilə işarələnir
+Ekranın sağ hissəsində addım-addım həll prosesi göstərilir
+Xüsusi effektlər:
+
+İstifadəçi "Animasiya göstər" düyməsini basanda, sistem əvəzetmə üsulu ilə həll olunur və hər addım vizual olaraq göstərilir
+İstifadəçi kəsişmə nöqtəsini tutub sürüyə bilər - sistem avtomatik yenidən tənlikləri hesablayır
+"Həll növü" göstəricisi: Tək həll (yaşıl), Sonsuz həll (sarı), Həll yoxdur (qırmızı)
+Nümunə Məsələ:
+
+Kitabxanada qələm və dəftər alırıq. 3 qələm və 2 dəftər 5 manat, 2 qələm və 5 dəftər 8 manat başa gəlir. Bir qələmin və bir dəftərin qiymətini tapın.
+
+Həll addımları:
+
+Dəyişənləri təyin edirik:
+
+x = bir qələmin qiyməti (manat)
+y = bir dəftərin qiyməti (manat)
+Tənliklər sistemini qururuq:
+
+3x + 2y = 5  ... (1)
+2x + 5y = 8  ... (2)
+Toplama üsulu ilə həll edirik:
+
+(1) tənliyini 2-yə vururuq: 6x + 4y = 10 ... (3)
+
+(2) tənliyini 3-ə vururuq: 6x + 15y = 24 ... (4)
+
+(4) - (3):
+
+6x + 15y - 6x - 4y = 24 - 10
+11y = 14
+y = 14/11 ≈ 1.27 manat
+x-i tapırıq: (1) tənliyə y = 14/11 əvəz edirik:
+
+3x + 2(14/11) = 5
+3x + 28/11 = 5
+3x = 5 - 28/11 = 55/11 - 28/11 = 27/11
+x = 9/11 ≈ 0.82 manat
+Cavab: Bir qələm təqribən 0.82 manat, bir dəftər təqribən 1.27 manatdır.
+
+Yoxlama: 3(0.82) + 2(1.27) = 2.46 + 2.54 = 5 ✓
+
+Ev Tapşırıqları:
+
+Alış-veriş ssenarisi: Sizdə 20 manat var. Mağazada çörək 0.80 manat, süd 2 manatdır. Siz 15 məhsul almaq istəyirsiniz və bütün pulunuzu xərcləməlisiniz. Neçə çörək və neçə süd ala bilərsiniz? (Cavab: 10 çörək və 5 süd)
+
+Karxana məsələsi: Bir zavod gündə A və B tipli iki növ məhsul istehsal edir. A məhsulunun istehsalı 3 saat metal emalı və 2 saat yığma tələb edir. B məhsulu 2 saat metal emalı və 4 saat yığma tələb edir. Zavodda gündə 60 saat metal emalı və 80 saat yığma vaxtı var. Zavod maksimum neçə A və B məhsulu istehsal edə bilər?
+
+MÖVZU 3: Çevrə və Onun Xassələri
+Kurikulum Konteksti: 9-cu sinif, II Bölmə - Çevrə
+
+Şagird Üçün İzah:
+
+Çevrə həndəsənin ən gözəl və simmetrik fiqurlarından biridir. Çevrə - müəyyən nöqtədən (mərkəzdən) eyni məsafədə olan nöqtələrin çoxluğudur. Bu məsafəyə radius deyilir. Çevrənin diametri radiusun iki qatıdır (d = 2r).
+
+Çevrə ilə bağlı əsas anlayışlar:
+
+1. Mərkəzi bucaq: Təpəsi çevrənin mərkəzində olan bucaq. Mərkəzi bucaq ona söykənən qövsə bərabərdir.
+
+2. Daxilə çəkilmiş bucaq: Təpəsi çevrə üzərində olan bucaq. Daxilə çəkilmiş bucaq ona söykənən qövsün yarısına bərabərdir.
+
+3. Vətər: Çevrə üzərində iki nöqtəni birləşdirən parça. Ən böyük vətər diametrdir.
+
+4. Toxunan: Çevrəyə yalnız bir nöqtədə toxunan düz xətt. Toxunan həmişə radiusa perpendikulyardır (90° bucaq altında).
+
+Əsas teorem: Çevrəyə xaricdən çəkilmiş iki toxunan bərabərdir. Yəni bir nöqtədən çevrəyə iki toxunan çəksək, onların uzunluqları eynidir.
+
+İnteraktiv Animasiya:
+
+Ekranda bir çevrə və onun mərkəzi (O nöqtəsi) göstərilir. İstifadəçinin qarşısında 5 interaktiv düymə var:
+
+Düymə 1: "Mərkəzi bucaq göstər"
+
+Çevrə üzərində A və B nöqtələri görünür
+İstifadəçi bu nöqtələri sürüyərək hərəkət etdirə bilər
+Mərkəzdən A və B-yə radiuslar çəkilir, AOB bucağı formalaşır
+Qövs AB rənglənir
+Ekranda göstərilir: ∠AOB = [bucağın dərəcəsi]° = Qövs AB
+Düymə 2: "Daxilə çəkilmiş bucaq göstər"
+
+Çevrə üzərində C nöqtəsi əlavə olunur
+ACB bucağı (daxilə çəkilmiş) göstərilir
+∠ACB = (Qövs AB)/2 münasibəti vizual olaraq göstərilir
+İstifadəçi C nöqtəsini çevrə üzərində sürüyə bilər - bucaq dəyişmir!
+Düymə 3: "Toxunan xətt çək"
+
+İstifadəçi çevrə üzərində toxunma nöqtəsini seçir
+Toxunan xətt avtomatik çəkilir
+Radiusun toxunana perpendikulyarlığı göstərilir (90° işarəsi ilə)
+Düymə 4: "Vətər xassələrini göstər"
+
+Çevrəyə paralel iki vətər çəkilir
+Mərkəzdən vətərlərə perpendikulyarlar endiriləndə vətərlərin yarıya bölündüyü göstərilir
+Düymə 5: "Real həyatda çevrə"
+
+Ekranda real obyektlər göstərilir: velosiped təkəri, pizza, CD disk
+Hər birində radius, diametr, toxunan (əyləc) göstərilir
+Nümunə Məsələ:
+
+Radiusu 5 sm olan çevrədə AB vətəri çəkilmişdir. AB = 8 sm olarsa, çevrənin mərkəzindən AB vətərinə qədər olan məsafəni tapın.
+
+Həll addımları:
+
+Şəkil çəkirik: O mərkəzli çevrə, AB vətəri, O-dan AB-yə perpendikulyar OH
+
+Məlum məlumatlar:
+
+Radius r = OA = OB = 5 sm
+Vətər AB = 8 sm
+OH ⊥ AB (mərkəzdən vətərə perpendikulyar)
+Xassədən istifadə edirik: Mərkəzdən vətərə perpendikulyar vətəri yarıya bölür
+
+AH = HB = AB/2 = 8/2 = 4 sm
+OAH düzbucaqlı üçbucağına Pifaqor teoremini tətbiq edirik:
+
+OA² = OH² + AH²
+5² = OH² + 4²
+25 = OH² + 16
+OH² = 9
+OH = 3 sm
+Cavab: Mərkəzdən vətərə qədər məsafə 3 sm-dir.
+
+Ev Tapşırıqları:
+
+Praktik ölçmə tapşırığı: Evinizə dairəvi bir əşya (boşqab, saat, stəkan) götürün. Xətkeş və kompas istifadə edərək onun mərkəzini tapın (ən azı 3 vətər çəkib onların orta perpendikulyarlarının kəsişməsini tapın). Radiusu ölçün və çevrənin uzunluğunu hesablayın (C = 2πr). Real ölçü ilə müqayisə edin.
+
+Tikinti məsələsi: Memar üçbucaq şəkilli parkın içinə ən böyük dairəvi hovuz salmaq istəyir. Bu hovuz üçbucağın tərəflərinin hamısına toxunmalıdır (daxilə çəkilmiş çevrə). Üçbucağın tərəfləri 6 m, 8 m və 10 m olarsa, hovuzun radiusunu tapın. (İpucu: S = pr düsturundan istifadə edin, burada S - sahə, p - yarımperimetr, r - radius)
+
+MÖVZU 4: Triqonometriya - Düzbucaqlı Üçbucaqda Nisbətlər
+Kurikulum Konteksti: 10-cu sinif, Vektorlar və Triqonometrik Nisbətlər
+
+Şagird Üçün İzah:
+
+Triqonometriya yunan dilindən tərcümədə "üçbucaq ölçmə" deməkdir. Bu, bucaqlar və tərəflər arasındakı əlaqəni öyrənən riyaziyyat bölməsidir. Triqonometriya binalar, körpülər tikməkdə, GPS naviqasiyasında, astronomiyada, musiqi dalğalarının təhlilində və hətta tibbi görüntüləmədə (MRT, CT) istifadə olunur.
+
+Düzbucaqlı üçbucaqda α bucağı üçün 3 əsas triqonometrik nisbət var:
+
+1. Sinus (sin α): Qarşı tərəfin hipotenuzaya nisbəti
+
+sin α = qarşı tərəf / hipotenuz
+2. Kosinus (cos α): Bitişik tərəfin hipotenuzaya nisbəti
+
+cos α = bitişik tərəf / hipotenuz
+3. Tangens (tg α): Qarşı tərəfin bitişik tərəfə nisbəti
+
+tg α = qarşı tərəf / bitişik tərəf = sin α / cos α
+Əsas bucaqların qiymətləri (yadda saxlamaq vacibdir):
+
+Bucaq	0°	30°	45°	60°	90°
+sin	0	1/2	√2/2	√3/2	1
+cos	1	√3/2	√2/2	1/2	0
+tg	0	1/√3	1	√3	∞
+Pifaqor teoremindən törəmə əsas eynilik:
+
+sin²α + cos²α = 1
+İnteraktiv Animasiya:
+
+Ekranda böyük bir düzbucaqlı üçbucaq (ABC, ∠C = 90°) göstərilir. İstifadəçi A bucağını sürüşdürücü ilə dəyişə bilir (0° - 90° arası).
+
+Sol panel - Üçbucaq:
+
+İstifadəçi α bucağını dəyişdikdə üçbucağın forması real-vaxt dəyişir
+Hər üç tərəf fərqli rənglərdə işarələnir:
+Hipotenuz (ən uzun tərəf) - qırmızı
+α-ya qarşı tərəf - göy
+α-ya bitişik tərəf - yaşıl
+Sağ panel - Hesablamalar:
+
+α = [cari dərəcə]°
+
+Tərəflər:
+├─ Hipotenuz (c) = [qiymət]
+├─ Qarşı tərəf (a) = [qiymət]
+└─ Bitişik tərəf (b) = [qiymət]
+
+Nisbətlər:
+├─ sin α = a/c = [onluq kəsr]
+├─ cos α = b/c = [onluq kəsr]
+└─ tg α = a/b = [onluq kəsr]
+
+Yoxlama: sin²α + cos²α = 1 ✓
+Alt panel - Vahid çevrə: Kiçik bir vahid çevrə (r = 1) göstərilir, burada α bucağı üçün:
+
+Şaquli koordinat = sin α (qırmızı xətt)
+Üfüqi koordinat = cos α (göy xətt)
+İstifadəçi bucağı dəyişdikdə nöqtə çevrə üzərində hərəkət edir
+Nümunə Məsələ:
+
+30 metr hündürlükdə olan televiziya qülləsinin təpəsindən müşahidəçiyə qədər olan məsafə 50 metrdir. Müşahidəçinin gözlə gördüyü bucağı (yüksəlmə bucağı) tapın.
+
+Həll addımları:
+
+Şəkil çəkirik:
+
+Düzbucaqlı üçbucaq: A (qüllənin təpəsi), B (qüllənin altı), C (müşahidəçi)
+AB = 30 m (qüllənin hündürlüyü - qarşı tərəf)
+AC = 50 m (müşahidəçiyə məsafə - hipotenuz)
+α = ∠ACB (axtardığımız bucaq)
+Uyğun triqonometrik funksiyanı seçirik: Qarşı tərəf və hipotenuz məlumdur → sinus
+
+sin α = qarşı tərəf / hipotenuz = AB / AC
+Hesablayırıq:
+
+sin α = 30 / 50 = 0.6
+Bucağı tapırıq: (kalkulyatordan istifadə edərək)
+
+α = arcsin(0.6) ≈ 36.87°
+və ya təqribən 37°
+
+Cavab: Müşahidəçinin baxış bucağı təqribən 37 dərəcədir.
+
+Əlavə yoxlama: Bitişik tərəfi tapa bilərik:
+
+BC² = AC² - AB² = 50² - 30² = 2500 - 900 = 1600
+BC = 40 m
+
+Yoxlama: tg α = 30/40 = 0.75
+arctg(0.75) ≈ 36.87° ✓
+Ev Tapşırıqları:
+
+Tikinti problemi: Nərdivanın uzunluğu 5 metrdir. O, divara 60° bucaq altında söykənir. Nərdivan divarın hansı hündürlüyünə çatır? Nərdivanın alt ucu divardan neçə metr məsafədədir? (Cavab: hündürlük ≈ 4.33 m, məsafə = 2.5 m)
+
+Real ölçmə layihəsi: Təhlükəsiz məsafədən (məsələn, 20 metr) ağacın və ya binanın hündürlüyünü ölçün. Bunun üçün:
+
+20 metr uzaqlıqdan ağacın təpəsinə baxın
+İnklinometr və ya telefon tətbiqi ilə baxış bucağını ölçün
+tg α = hündürlük / 20 düsturundan hündürlüyü hesablayın
+Nəticənizi təxmini biliklərinizlə müqayisə edin
+MÖVZU 5: Rasional Tənliklər və Məsələ Həlli
+Kurikulum Konteksti: 9-cu sinif, V Bölmə - Tənliklər və Tənliklər Sistemi
+
+Şagird Üçün İzah:
+
+Rasional tənliklər - kəsrlər olan tənliklərdir, yəni tənlikdə dəyişən məxrəcdə (payın altında) yerləşir. Məsələn:
+
+3/x + 2/(x-1) = 5
+Rasional tənlikləri həll etmək üçün 3 əsas addım:
+
+Addım 1: Məxrəcləri müəyyənləşdirin və tənlik üçün məhdudiyyətləri tapın (məxrəc 0 ola bilməz).
+
+Addım 2: Ümumi məxrəc tapın və bütün tənliyi ona vurun ki, kəsrlərdən xilas olasınız.
+
+Addım 3: Alınan sadə tənliyi həll edin və cavabı məhdudiyyətlərə görə yoxlayın.
+
+DİQQƏT! Rasional tənliklərdə ən çox yayılmış səhv: tapılan cavabı məxrəcə əvəz etməyi unutmaq. Əgər məxrəc sıfır olarsa, həll düzgün deyil və onu kənarlaşdırmalıyıq.
+
+Real həyatda rasional tənliklər iş problemlərində çox işlədilir: iki işçi birlikdə bir işi neçə günə bitirər? Çay axınına qarşı və axınla getmə məsələləri, boru ilə hovuzun dolması məsələləri - bunların hamısı rasional tənliklə həll olunur.
+
+Tipik məsələ strukturu:
+
+1/a + 1/b = 1/c
+Bu düstur demək istəyir: A-nın bir gündə gördüyü iş 1/a, B-ninki 1/b, birgə görəcəkləri 1/c.
+
+İnteraktiv Animasiya:
+
+Ekran 1 - Tənlik həlledici: İstifadəçi sadə rasional tənlik daxil edir, məsələn:
+
+5/x - 2/(x+3) = 1
+Animasiya addım-addım göstərir:
+
+Addım 1 - Məhdudiyyətlər (qırmızı rənglə):
+
+Məhdudiyyətlər: x ≠ 0 və x ≠ -3
+Addım 2 - Ümumi məxrəc (yaşıl fon ilə):
+
+Ümumi məxrəc: x(x+3)
+Hər iki tərəfi x(x+3)-ə vururuq:
+Addım 3 - Sadələşdirmə (animasiyalı): Kəsrlər ləğv olur (xaç işarəsi ilə):
+
+5(x+3) - 2x = x(x+3)
+5x + 15 - 2x = x² + 3x
+3x + 15 = x² + 3x
+Addım 4 - Kvadrat tənlik:
+
+x² = 15
+x = ±√15 ≈ ±3.87
+Addım 5 - Yoxlama (avtomatik): Hər iki cavab məhdudiyyətlərə yoxlanır:
+
+x₁ = √15 ≈ 3.87 ✓ (qəbul edilir)
+x₂ = -√15 ≈ -3.87 ✓ (qəbul edilir)
+Ekran 2 - İş məsələsi simulyatoru: Ekranda iki işçi (A və B) animasiyalı şəkildə divar hörür. İstifadəçi:
+
+A-nın tək başına işi bitirmə vaxtını təyin edir (sürüşdürücü: 5-20 gün)
+B-nin tək başına işi bitirmə vaxtını təyin edir
+"Birgə işləsələr neçə günə bitirər?" sualını görür
+Simulyator:
+
+Hər işçinin işləmə sürətini vizual göstərir (doldurma proqress barları)
+İş tənliyini qurur: 1/A + 1/B = 1/C
+Həlli addım-addım göstərir
+Nəticəni animasiya ilə təsdiqləyir (divar tam bitir)
+Nümunə Məsələ:
+
+Ali hovuzu 6 saata doldura bilir, Vəli isə eyni hovuzu 4 saata doldura bilir. Hər ikisi birlikdə işləsələr, hovuz neçə saata dolar?
+
+Həll addımları:
+
+Dəyişəni təyin edirik:
+
+x = hovuzun dolması üçün lazım olan saat (birlikdə)
+Bir saatda görülən işi ifadə edirik:
+
+Ali 1 saatda hovuzun 1/6 hissəsini doldurur
+Vəli 1 saatda hovuzun 1/4 hissəsini doldurur
+Birlikdə 1 saatda 1/x hissəsini doldururlar
+Tənlik qururuq:
+
+1/6 + 1/4 = 1/x
+Ümumi məxrəc tapırıq: ƏBOB(6, 4) = 12
+
+2/12 + 3/12 = 1/x
+5/12 = 1/x
+x-i ifadə edirik:
+
+x = 12/5 = 2.4 saat
+Saat və dəqiqəyə çeviririk:
+
+2.4 saat = 2 saat 24 dəqiqə
+Cavab: Ali və Vəli birlikdə hovuzu 2 saat 24 dəqiqəyə doldura bilərlər.
+
+Məntiqi yoxlama:
+
+Ali tək 6 saat, Vəli tək 4 saat
+Birlikdə 4 saatdan az (Vəlinin tək vaxtından az) olmalıdır ✓
+2.4 saat məntiqli görünür ✓
+Ev Tapşırıqları:
+
+Boru məsələsi: Hovuzun dolması üçün 2 boru var. Birinci boru hovuzu 3 saata doldurur, ikinci boru 6 saata boşaldır. Hər iki boru eyni vaxt açıq olsa, hovuz neçə saata dolar? (Cavab: 6 saat - birinci doldurur, ikinci yarısını boşaldır)
+
+Yol məsələsi: Velosipedçi düz yolla gedəndə məsafəni 4 saata qət edir. Əgər 1/3 hissəsini yoxuşda (sürəti 10 km/saat azalır) getsə, qalanını düz yolla getsə, 5 saata çatır. Düz yoldakı sürətini və məsafəni tapın.
+
+MÖVZU 6: Ədədi Silsilələr (Arifmetik və Həndəsi)
+Kurikulum Konteksti: 9-cu sinif, IX Bölmə - Ədədi Ardıcıllıqlar
+
+Şagird Üçün İzah:
+
+Ədədi silsilələr - müəyyən qayda ilə düzülmüş ədədlər ardıcıllığıdır. Təbiətdə, biznes dünyasında, texnologiyada hər yerdə ardıcıllıqlar var: bank əmanətlərindəki faizlər, nüfusun artımı, virusun yayılması, hətta şahmat lövhəsindəki dənələrin sayı!
+
+İki əsas silsilə növü:
+
+1. Ədədi (Arifmetik) Silsilə
+Hər hədd əvvəlki hədddən eyni ədəd (diferens) qədər fərqlənir.
+
+Ümumi həddin düsturu:
+
+aₙ = a₁ + (n-1)d
+burada:
+
+aₙ = n-ci hədd
+a₁ = birinci hədd
+d = diferens (fərq)
+n = həddin nömrəsi
+İlk n həddin cəmi:
+
+Sₙ = n(a₁ + aₙ)/2  və ya  Sₙ = n[2a₁ + (n-1)d]/2
+Nümunə: 2, 5, 8, 11, 14, ... (d = 3)
+
+2. Həndəsi Silsilə
+Hər hədd əvvəlki həddi eyni ədədə (məxrəc) vurduqda alınır.
+
+Ümumi həddin düsturu:
+
+bₙ = b₁ · qⁿ⁻¹
+burada:
+
+bₙ = n-ci hədd
+b₁ = birinci hədd
+q = məxrəc (vuruq)
+İlk n həddin cəmi:
+
+Sₙ = b₁(qⁿ - 1)/(q - 1)    [əgər q ≠ 1]
+Sonsuz azalan həndəsi silsilənin cəmi (əgər |q| < 1):
+
+S∞ = b₁/(1 - q)
+Nümunə: 3, 6, 12, 24, 48, ... (q = 2)
+
+İnteraktiv Animasiya:
+
+Ekran bölünür 2 hissəyə:
+
+SOL - Ədədi Silsilə Simulyatoru:
+
+İstifadəçi daxil edir:
+
+a₁ (birinci hədd) = [giriş sahəsi]
+d (diferens) = [giriş sahəsi]
+n (neçənci həddi görmək istəyir) = [sürüşdürücü 1-100]
+Real-vaxt vizuallaşdırma:
+
+Silsilə: a₁, a₁+d, a₁+2d, a₁+3d, ...
+Ekranda şaquli dırmıqlar (bars) göstərilir:
+
+Hər dırmıq bir həddi təmsil edir
+Hündürlük həddin qiymətinə uyğundur
+n artdıqda yeni dırmıqlar animasiyalı əlavə olunur
+Diferens ox ilə göstərilir (hər addımda neçə artır)
+Alt panel:
+
+aₙ = [hesablanmış qiymət]
+İlk n həddin cəmi: Sₙ = [qiymət]
+SAĞ - Həndəsi Silsilə Simulyatoru:
+
+İstifadəçi daxil edir:
+
+b₁ (birinci hədd) = [giriş]
+q (məxrəc) = [sürüşdürücü 0.1-3.0]
+n = [sürüşdürücü 1-15]
+Vizuallaşdirma:
+
+Əgər q > 1: eksponensial artım (raket kimi qalxma)
+Əgər 0 < q < 1: eksponensial azalma (merdivenden enmə)
+Dairələr və ya kvadratlar göstərilir, ölçüsü həddin qiymətinə uyğun
+q = 2 olduqda: 1, 2, 4, 8, 16 kimi iki dəfələşmə aydın görünür
+Xüsusi effekt: Əgər |q| < 1, istifadəçi "Sonsuz cəmi göstər" düyməsini basarsa:
+
+Animasiya göstərir ki, hədlər getdikcə kiçilir
+S∞ = b₁/(1-q) düsturu hesablanır
+Ekranda: "Sonsuz çox hədd toplansa belə, cəm [qiymət]-dən böyük olmaz!"
+Nümunə Məsələ 1: Ədədi Silsilə
+
+Ali hər gün kitab oxuyur. Birinci gün 5 səhifə, ikinci gün 8 səhifə, üçüncü gün 11 səhifə oxuyur. 30 gün ərzində cəmi neçə səhifə oxuyacaq?
+
+Həll addımları:
+
+Silsilənin növünü təyin edirik: 5, 8, 11, ... → hər gün 3 səhifə artır → ədədi silsilə
+
+a₁ = 5
+d = 3
+n = 30
+30-cu günkü oxunan səhifəni tapırıq:
+
+a₃₀ = a₁ + (n-1)d
+a₃₀ = 5 + (30-1)×3
+a₃₀ = 5 + 29×3 = 5 + 87 = 92 səhifə
+İlk 30 gün ərzində cəm oxunan səhifəni tapırıq:
+
+S₃₀ = n(a₁ + a₃₀)/2
+S₃₀ = 30(5 + 92)/2
+S₃₀ = 30 × 97 / 2
+S₃₀ = 15 × 97 = 1455 səhifə
+Cavab: Ali 30 gün ərzində cəmi 1455 səhifə oxuyacaq.
+
+Nümunə Məsələ 2: Həndəsi Silsilə
+
+Sosial mediada bir video paylaşırsınız. Birinci gün 3 nəfər baxır. Hər gün baxanların sayı 2 qat artır. 10-cu gün neçə nəfər baxacaq?
+
+Həll addımları:
+
+Silsilə: 3, 6, 12, 24, ... → hər gün 2 qat artır → həndəsi silsilə
+
+b₁ = 3
+q = 2
+n = 10
+10-cu günkü baxan sayını tapırıq:
+
+b₁₀ = b₁ × qⁿ⁻¹
+b₁₀ = 3 × 2⁹
+b₁₀ = 3 × 512 = 1536 nəfər
+Cəmi neçə nəfərin baxdığını tapırıq (10 gün ərzində):
+
+S₁₀ = b₁(q¹⁰ - 1)/(q - 1)
+S₁₀ = 3(2¹⁰ - 1)/(2 - 1)
+S₁₀ = 3(1024 - 1)/1
+S₁₀ = 3 × 1023 = 3069 nəfər
+Cavab: 10-cu gün 1536 nəfər baxacaq, cəmi 3069 nəfər video görəcək.
+
+Ev Tapşırıqları:
+
+Əmanət məsələsi: Bankda 1000 manat əmanət açırsınız. Bank illik 8% faiz verir (hər il əvvəlki miqdarın 1.08 qatına çatır). 10 il sonra nə qədər pulunuz olacaq? (İpucu: Həndəsi silsilə, q = 1.08)
+
+Şahmat lövhəsi əfsanəsi: Qədim əfsanəyə görə, şahmatı kəşf edən adamı padşah mükafatlandırmaq istəyir. O deyir: "Şahmat lövhəsinin 1-ci xanasına 1 buğda dənəsi, 2-ci xanaya 2, 3-cü xanaya 4, 4-cü xanaya 8... hər xanaya əvvəlkindən 2 qat çox qoy." 64 xanalı lövhənin sonuncu xanasına neçə dənə düşəcək? Cəmi neçə dənə lazımdır? (Cavab: çox böyük ədəddir, dünyadakı bütün buğdadan çox!)
+
+MÖVZU 7: Çoxhədlilər və Vuruqlara Ayırma
+Kurikulum Konteksti: 11-ci sinif, I Bölmə - Çoxhədlilər
+
+Şagird Üçün İzah:
+
+Çoxhədli - bir neçə həddın toplandığı cəbri ifadədir. Məsələn:
+
+P(x) = 3x³ - 5x² + 2x - 7
+Çoxhədlinin dərəcəsi - ən böyük dərəcəli həddin dərəcəsidir (yuxarıdakı nümunədə 3).
+
+Vuruqlara ayırma çoxhədlini vuruqların hasili şəklində yazmaq deməkdir:
+
+x² - 5x + 6 = (x - 2)(x - 3)
+Vuruqlara Ayırma Üsulları:
+1. Ümumi vuruğun mötərizədən kənara alınması:
+
+6x³ - 9x² = 3x²(2x - 3)
+2. Qısa vurma düsturları:
+
+(a + b)² = a² + 2ab + b²
+(a - b)² = a² - 2ab + b²
+a² - b² = (a - b)(a + b)
+a³ + b³ = (a + b)(a² - ab + b²)
+a³ - b³ = (a - b)(a² + ab + b²)
+3. Qruplaşdırma:
+
+x³ + x² + x + 1 = x²(x + 1) + 1(x + 1) = (x + 1)(x² + 1)
+4. Kök tapma və çarpanlara ayırma: Əgər P(a) = 0 olarsa, (x - a) vuruqdur.
+
+Bezout teoremi:
+P(x) çoxhədlisini (x - a)-ya bölməyədən qalıq P(a)-ya bərabərdir.
+
+Rasional köklərin tapılması:
+Əgər p/q rasional kökdirsə:
+
+p - sərbəst həddin bölənlərindəndir
+q - aparıcı əmsalın bölənlərindəndir
+İnteraktiv Animasiya:
+
+Ekranın yuxarı hissəsi - Çoxhədli giriş sahəsi:
+
+P(x) = [istifadəçi daxil edir, məsələn: x³ - 6x² + 11x - 6]
+Orta hissə - Addım-addım vuruqlara ayırma:
+
+Addım 1 - Mümkün rasional kökləri sına:
+
+Sərbəst hədd: -6 → ±1, ±2, ±3, ±6
+Aparıcı əmsal: 1 → ±1
+Mümkün köklərlər: ±1, ±2, ±3, ±6
+İstifadəçi hər kökü kliklədikdə:
+
+P(1) = 1 - 6 + 11 - 6 = 0 ✓ KÖK TAPILDI!
+Qırmızı yaxud yaşıl işıq yanır
+Addım 2 - Horner sxemi ilə bölmə:
+
+(x - 1) vuruqu tapıldı
+P(x) böl (x - 1) = ?
+Animasiyalı Horner cədvəli göstərilir:
+
+     | 1  -6  11  -6
+   1 |    1  -5   6
+   ----------------
+     | 1  -5   6   0  ← qalıq 0
+Nəticə: P(x) = (x - 1)(x² - 5x + 6)
+
+Addım 3 - Kvadrat üçhədlini vuruqlara ayırma:
+
+x² - 5x + 6 = ?
+D = b² - 4ac = 25 - 24 = 1
+x₁ = (5+1)/2 = 3
+x₂ = (5-1)/2 = 2
+Animasiya: x² - 5x + 6 = (x - 2)(x - 3)
+
+Final nəticə (böyük ekranda):
+
+P(x) = x³ - 6x² + 11x - 6 = (x - 1)(x - 2)(x - 3)
+Alt panel - Qrafik vizuallaşdırma:
+
+P(x) qrafiki göstərilir
+Köklərin olduğu yerdə (1, 2, 3) ox ilə kəsişmə nöqtələri vurğulanır
+İstifadəçi qrafiki zoom edə, hərəkət etdirə bilər
+Nümunə Məsələ:
+
+x³ + 2x² - 5x - 6 çoxhədlisini vuruqlara ayırın və köklərini tapın.
+
+Həll addımları:
+
+Mümkün rasional kökləri müəyyənləşdiririk:
+
+Sərbəst hədd: -6 → bölənləri: ±1, ±2, ±3, ±6
+Aparıcı əmsal: 1 → bölənləri: ±1
+Yoxlanılacaq kökləy: ±1, ±2, ±3, ±6
+Kökləri yoxlayırıq:
+
+P(1) = 1 + 2 - 5 - 6 = -8 ≠ 0
+P(-1) = -1 + 2 + 5 - 6 = 0 ✓ **KÖK!**
+Horner sxemi ilə (x + 1)-ə böldük:
+
+     | 1   2  -5  -6
+   -1|   -1  -1   6
+   ----------------
+     | 1   1  -6   0
+Deməli: P(x) = (x + 1)(x² + x - 6)
+
+Kvadrat üçhədlini vuruqlara ayırırıq:
+
+x² + x - 6 = 0
+D = 1 + 24 = 25
+x = (-1 ± 5)/2
+x₁ = 2, x₂ = -3
+x² + x - 6 = (x - 2)(x + 3)
+
+Yekun cavab:
+
+x³ + 2x² - 5x - 6 = (x + 1)(x - 2)(x + 3)
+
+Kökləri: x₁ = -1, x₂ = 2, x₃ = -3
+Yoxlama: P(2) = 8 + 8 - 10 - 6 = 0 ✓
+
+Ev Tapşırıqları:
+
+Vuruqlara ayırma məşqi: Aşağıdakı çoxhədliləri vuruqlara ayırın:
+
+a) x³ - 7x + 6
+b) x⁴ - 1 (İpucu: a⁴ - b⁴ = (a² - b²)(a² + b²))
+c) x³ + 3x² - 4
+Tətbiq məsələsi: Düzbucaqlının uzunluğu enindən 3 sm çoxdur. Sahəsi 180 sm² olarsa, ölçülərini tapın. (İpucu: x(x+3) = 180 tənliyini həll edin)
+
+MÖVZU 8: Törəmə və Funksiyaların Tədqiqi
+Kurikulum Konteksti: 11-ci sinif, V və VII Bölmələr - Törəmə və Onun Tətbiqi
+
+Şagird Üçün İzah:
+
+Törəmə funksiyasının dəyişmə sürətini göstərən riyazi alətdir. Fizikada sürət məsafənin törəməsidir, təcil sürətin törəməsidir. İqtisadiyyatda marjinal məsrəf, mənfəətin dəyişməsi törəmə ilə hesablanır.
+
+Törəmənin Həndəsi Mənası:
+f'(x₀) - funksiyanın x₀ nöqtəsindəki toxunanının meyl əmsalıdır.
+
+Əsas Törəmə Düsturları:
+(c)' = 0          (sabitin törəməsi)
+(x)' = 1
+(xⁿ)' = nxⁿ⁻¹     (qüvvət düsturu)
+(sin x)' = cos x
+(cos x)' = -sin x
+(eˣ)' = eˣ
+(ln x)' = 1/x
+Törəmə Qaydaları:
+(f + g)' = f' + g'            (toplama)
+(f × g)' = f'g + fg'          (hasilin törəməsi)
+(f/g)' = (f'g - fg')/g²       (nisbətin törəməsi)
+(f(g(x)))' = f'(g(x)) × g'(x) (mürəkkəb funksiya)
+Törəmənin Tətbiqi:
+1. Funksiyanın artma/azalması:
+
+f'(x) > 0 → funksiya artan
+f'(x) < 0 → funksiya azalan
+f'(x) = 0 → mümkün ekstremum nöqtəsi
+2. Ekstremumlar: Maksimum və ya minimum nöqtələr f'(x) = 0 tənliyinin köklərindən tapılır.
+
+3. Optimallaşdırma məsələləri: Maksimum mənfəət, minimum məsrəf, minimum material sərf və s.
+
+İnteraktiv Animasiya:
+
+Ekran 3 hissəyə bölünür:
+
+SOL PANEL - Funksiya və onun törəməsi:
+
+İstifadəçi funksiya seçir (dropdown menu):
+
+f(x) = x²
+f(x) = x³ - 3x
+f(x) = sin(x)
+və ya öz funksiyasını daxil edər
+Əsas ekran:
+
+f(x) qrafiki göy rənglə
+f'(x) qrafiki qırmızı rənglə
+İstifadəçi x oxu üzərində nöqtəni sürüyə bilir
+Real-vaxt göstəricilər:
+
+x = [cari qiymət]
+f(x) = [qiymət]
+f'(x) = [törəmə qiyməti]
+Vizual effektlər:
+
+Seçilmiş nöqtədə toxunan xətt çəkilir (meyili f'(x)-ə bərabər)
+Əgər f'(x) > 0: yaşıl ox yuxarı (artan)
+Əgər f'(x) < 0: qırmızı ox aşağı (azalan)
+Əgər f'(x) = 0: torpaq işarəsi (ekstremum)
+SAĞ PANEL - Ekstremum tapıcı:
+
+İstifadəçi optimallaşdırma məsələsi daxil edir, məsələn:
+
+Məsələ: Düzbucaqlının perimetri 40 sm. 
+Maksimum sahəni tapın.
+Animasiya addımları:
+
+Addım 1 - Dəyişənlərin təyini:
+
+x = en (sm)
+y = uzunluq (sm)
+Məhdudiyyət: 2x + 2y = 40 → y = 20 - x
+Addım 2 - Hədəf funksiyanın qurulması:
+
+Sahə: S(x) = x × y = x(20 - x) = 20x - x²
+Addım 3 - Törəmənin alınması:
+
+S'(x) = 20 - 2x
+Addım 4 - Ekstremum nöqtəsinin tapılması:
+
+S'(x) = 0
+20 - 2x = 0
+x = 10 sm
+Addım 5 - Yoxlama (İkinci törəmə testi):
+
+S''(x) = -2 < 0 → Maksimum ✓
+Vizuallaşdırma:
+
+Ekranda düzbucaqlı animasiya ilə göstərilir
+x dəyəri dəyişdikcə düzbucaqlının forması dəyişir
+Sahə real-vaxt hesablanır və grafikdə göstərilir
+x = 10-da sahə maksimuma çatır (yaşıl işıqlanma)
+Nümunə Məsələ:
+
+f(x) = x³ - 6x² + 9x + 1 funksiyasının ekstremumlarını tapın və artma/azalma aralıqlarını müəyyənləşdirin.
+
+Həll addımları:
+
+Törəməni tapırıq:
+
+f'(x) = 3x² - 12x + 9
+Kritik nöqtələri tapırıq (f'(x) = 0):
+
+3x² - 12x + 9 = 0
+x² - 4x + 3 = 0    (3-ə böldük)
+(x - 1)(x - 3) = 0
+x₁ = 1, x₂ = 3
+İşarə sxemini qururuq:
+
+x:     ... 1 ... 3 ...
+f'(x):  +  0  -  0  +
+f(x):   ↗ maks ↘ min ↗
+Ekstremumların qiymətlərini hesablayırıq:
+
+f(1) = 1 - 6 + 9 + 1 = 5    (maksimum)
+f(3) = 27 - 54 + 27 + 1 = 1 (minimum)
+Cavab:
+
+Artma aralıqları: (-∞, 1) və (3, +∞)
+Azalma aralığı: (1, 3)
+Maksimum nöqtəsi: (1, 5)
+Minimum nöqtəsi: (3, 1)
+Qrafik yoxlaması: Funksiyanın qrafiki kubik parabola (S-şəkilli), 1-də təpə, 3-də dib.
+
+Ev Tapşırıqları:
+
+Fizika tətbiqi: Cisim s(t) = t³ - 9t² + 24t qanunu ilə hərəkət edir (s - metr, t - saniyə). Cismin maksimum sürətini və sürətin sıfır olduğu anları tapın. (İpucu: sürət v(t) = s'(t), təcil a(t) = v'(t))
+
+İqtisadi optimallaşdırma: Şirkət məhsul istehsal edir. Mənfəət P(x) = -2x² + 40x - 150 funksiyası ilə verilir (x - min vahid istehsal). Maksimum mənfəəti və onu verən istehsal həcmini tapın. (Cavab: x = 10 min vahid, P = 50 min manat)
+
+MÖVZU 9: Ehtimal və Statistika Əsasları
+Kurikulum Konteksti: 9-cu sinif, X Bölmə - Məlumatın Təqdimi, Birlişmələr, Ehtimal
+
+Şagird Üçün İzah:
+
+Statistika və ehtimal müasir həyatın ayrılmaz hissəsidir. Hava proqnozu ("40% ehtimalla yağış"), COVID-19 testlərinin dəqiqliyi, seçkilərdə sosiologiya, tibbdə dərman təsirinin qiymətləndirilməsi - hamısı ehtimal nəzəriyyəsinə əsaslanır.
+
+Əsas Anlayışlar:
+1. Təsadüfi hadisə - baş verə və ya verməyə bilən hadisə
+
+Mümkün hadisə: zər atanda 6 gəlməsi
+Mümkün olmayan hadisə: zər atanda 7 gəlməsi
+Mütləq hadisə: zər atanda 1-6 arası rəqəm gəlməsi
+2. Ehtimal - hadisənin baş vermə ehtimalı 0 ilə 1 arasında ədəddir:
+
+P(A) = (A-ya əlverişli nəticələrin sayı) / (Bütün mümkün nəticələrin sayı)
+3. Statistik göstəricilər:
+
+Orta (mean): bütün qiymətlərin cəminin sayına nisbəti
+Mediana (median): sıralanmış verilənlərin ortadakı qiyməti
+Moda (mode): ən çox təkrarlanan qiymət
+Amplituda (range): maksimum - minimum
+Birlşmələr:
+Permutasiya: n elementinin sıralaması
+
+Pₙ = n! = n × (n-1) × (n-2) × ... × 2 × 1
+Kombinasiya: n elementdən k-nı seçmək
+
+Cₙᵏ = n! / [k!(n-k)!]
+İnteraktiv Animasiya:
+
+EKRAN 1 - Zər və Sikkə Simulyatoru:
+
+İstifadəçi seçir:
+
+Zər (1-6 rəqəm)
+Sikkə (Yazı/Tura)
+İki zər
+Zər və sikkə
+"Atışa başla" düyməsi:
+
+Animasiya ilə zər və ya sikkə fırlanır
+Nəticə göstərilir
+İstifadəçi 10, 50, 100, 1000 dəfə ata bilir
+Real-vaxt statistika cədvəli:
+
+Atış sayı: [cari say]
+1 gəldi: 15 dəfə (15%)
+2 gəldi: 18 dəfə (18%)
+3 gəldi: 16 dəfə (16%)
+...
+6 gəldi: 17 dəfə (17%)
+
+Nəzəri ehtimal: hər biri 16.67%
+Fərq: [göstərilir]
+Qrafik: Sütun diaqram (histogram) real-vaxt yenilənir, atış sayı artdıqca faizlər 16.67%-ə yaxınlaşır (Böyük ədədlər qanunu)
+
+EKRAN 2 - Statistik Məlumat Təhlilçisi:
+
+İstifadəçi sinif şagirdlərinin boy uzunluğunu daxil edir (və ya nümunə məlumat seçir):
+
+165, 170, 168, 172, 165, 169, 171, 170, 167, 165, 173, 170
+Avtomatik hesablamalar:
+
+📊 TƏHLİL NƏTİCƏLƏRİ:
+
+Şagird sayı: 12
+
+Orta: (165+170+...+170)/12 = 168.75 sm
+
+Mediana: 
+Sıralama: 165,165,165,167,168,169,170,170,171,172,173
+Orta ikisi: (169+170)/2 = 169.5 sm
+
+Moda: 165 və 170 (hər ikisi 3 dəfə təkrarlanır)
+
+Amplituda: 173 - 165 = 8 sm
+Vizuallaşdırma:
+
+Nöqtə diaqramı (dot plot)
+Histoqram (qruplaşdırılmış: 165-167, 168-170, 171-173)
+Qutu-bığ diaqramı (box plot) - maksimum, minimum, mediana, kvartillər
+EKRAN 3 - Kombinasiya Kalkulyatoru:
+
+Məsələ: 10 nəfərlik qrupdan 3 nəfər komitə seçilir. 
+Neçə variant var?
+İstifadəçi daxil edir: n = 10, k = 3
+
+Addım-addım həll:
+
+C₁₀³ = 10! / (3! × 7!)
+    = (10 × 9 × 8 × 7!) / (6 × 7!)
+    = (10 × 9 × 8) / 6
+    = 720 / 6
+    = 120 variant
+Vizual göstəriş: Ekranda 10 nəfər simvolları göstərilir. İstifadəçi 3 nəfər seçəndə kombinasiya vurğulanır. "Bütün variantları göstər" düyməsi basılanda 120 variant sürətli animasiya ilə keçir.
+
+Nümunə Məsələ:
+
+Zar və sikkə eyni vaxtda atılır. "Zərdə 4 və sikkədə Tura gəlməsi" hadisəsinin ehtimalını tapın.
+
+Həll addımları:
+
+Nəticələr fəzasını təyin edirik:
+
+Zər: 1, 2, 3, 4, 5, 6 (6 nəticə)
+Sikkə: Yazı (Y), Tura (T) (2 nəticə)
+Ümumi nəticələr: 6 × 2 = 12
+Bütün nəticələri sadalayırıq:
+
+(1,Y), (1,T), (2,Y), (2,T), (3,Y), (3,T),
+(4,Y), (4,T), (5,Y), (5,T), (6,Y), (6,T)
+Əlverişli nəticəni müəyyənləşdiririk:
+
+"Zərdə 4 VƏ sikkədə Tura" → (4, T) - yalnız 1 nəticə
+Ehtimalı hesablayırıq:
+
+P(4 və T) = 1/12 ≈ 0.0833 və ya 8.33%
+Cavab: Ehtimal 1/12 və ya təqribən 8.33%-dir.
+
+Alternativ yol (müstəqil hadisələr):
+
+P(Zərdə 4) = 1/6
+P(Sikkədə T) = 1/2
+P(4 və T) = (1/6) × (1/2) = 1/12 ✓
+Ev Tapşırıqları:
+
+Lotereya məsələsi: 49 topdan 6-sını çəkən lotoreyada qalib olmaq (6 topu da düzgün seçmək) üçün neçə variant var? Ehtimalınız nə qədərdir? (Cavab: C₄₉⁶ = 13,983,816 variant, ehtimal = 1/13,983,816 ≈ 0.000007%)
+
+Real məlumat toplama: Sinifinizdəki 20 şagirdin bir həftəlik telefonda xərclədiyi vaxtı (saat) toplayın. Orta, mediana, moda, amplitudanı hesablayın. Histoqram çəkin. Nəticəni 1 səhifəlik hesabatda təqdim edin.
+
+MÖVZU 10: Bərabərsizliklər və İntervallar Üsulu
+Kurikulum Konteksti: 9-cu sinif, VII Bölmə - Bərabərsizliklər
+
+Şagird Üçün İzah:
+
+Bərabərsizliklər real həyatda tənliklərdən daha çox işlədilir! Məsələn:
+
+"Balansınız 50 manatdan çox olmalıdır" → x > 50
+"Lift maksimum 500 kq daşıya bilər" → x ≤ 500
+"Ev temperatur 18-25°C arasında olmalıdır" → 18 ≤ T ≤ 25
+Əsas Bərabərsizlik Növləri:
+1. Xətti bərabərsizliklər:
+
+2x + 5 < 13
+2. Kvadrat bərabərsizliklər:
+
+x² - 5x + 6 > 0
+3. Rasional bərabərsizliklər:
+
+(x - 2)/(x + 3) ≥ 0
+Həll Üsulları:
+Üsul 1 - Cəbri (xətti üçün):
+
+2x + 5 < 13
+2x < 8
+x < 4
+Üsul 2 - Qrafik üsulu: Funksiyaların qrafiklərini çəkib kəsişmə nöqtələrini tapırıq.
+
+Üsul 3 - İntervallar üsulu (kvadrat və rasional üçün):
+
+Bərabərsizliyi sıfıra bərabər edirik
+Kökləri tapırıq
+Ədəd oxunda intervalları qeyd edirik
+Hər intervalda işarəni yoxlayırıq
+Kvadrat Bərabərsizliklərin Həlli:
+x² - 5x + 6 > 0 bərabərsizliyini həll edək:
+
+Müvafiq tənliyi həll edirik: x² - 5x + 6 = 0 → (x - 2)(x - 3) = 0 x₁ = 2, x₂ = 3
+
+Ədəd oxunda intervalları qeyd edirik:
+
+───●───●───
+   2   3
+Hər intervalda işarəni yoxlayırıq:
+
+x < 2 (məsələn, x = 0): 0 - 0 + 6 = 6 > 0 ✓
+2 < x < 3 (məsələn, x = 2.5): 6.25 - 12.5 + 6 = -0.25 < 0 ✗
+x > 3 (məsələn, x = 4): 16 - 20 + 6 = 2 > 0 ✓
+Cavab: x ∈ (-∞, 2) ∪ (3, +∞)
+
+İnteraktiv Animasiya:
+
+EKRAN - Bərabərsizlik Həll Edən Maşın:
+
+İstifadəçi bərabərsizlik daxil edir, 3 rejim var:
+
+REJİM 1: Kvadrat Bərabərsizlik
+
+Daxil edin: x² - 5x + 6 > 0
+Animasiya addım-addım:
+
+Addım 1 - Parabola qrafiki:
+
+y = x² - 5x + 6 parabolası çəkilir
+Köklərdə (2 və 3) ox ilə kəsişmə göstərilir
+İstifadəçi "Qrafiki təhlil et" basar
+Addım 2 - İnterval təhlili:
+
+x oxu:  ────●─────●────
+           2     3
+
+Test nöqtələri:
+├─ x = 0: 6 > 0 ✓ (yaşıl)
+├─ x = 2.5: -0.25 < 0 ✗ (qırmızı)
+└─ x = 4: 2 > 0 ✓ (yaşıl)
+Parabolanın ox üzərində olan hissələri rənglənir:
+
+Yaşıl: bərabərsizliyi ödəyir
+Qırmızı: ödəmir
+Addım 3 - Cavab:
+
+Həll: x ∈ (-∞, 2) ∪ (3, +∞)
+
+İnterval yazılışı:
+●─────────●═════●─────────●
+          2     3
+Açıq dairə: kök daxil deyil
+Bağlı dairə: kök daxildir
+REJİM 2: Rasional Bərabərsizlik
+
+Daxil edin: (x - 2)/(x + 3) ≥ 0
+Avtomatik addımlar:
+
+Addım 1 - Pay və məxrəci sıfıra bərabər edirik:
+
+Pay: x - 2 = 0 → x = 2
+Məxrəc: x + 3 = 0 → x = -3 (məhdudiyyət!)
+Addım 2 - Ədəd oxu və işarə sxemi:
+
+       -3        2
+────✕─────────●────
+  -    +    +
+Vizual:
+
+x = -3 (xaçlanmış): məhdudiyyət, həllə daxil deyil
+x = 2 (dolu nöqtə): kök, ≥ olduğu üçün daxildir
+Addım 3 - İnterval seçimi:
+
+(x-2)/(x+3) ≥ 0 üçün:
+- Pay və məxrəc eyni işarəli olmalıdır
+- Və ya pay 0 olmalıdır
+
+Həll: x ∈ (-3, 2]
+REJİM 3: Bərabərsizliklər Sistemi
+
+Daxil edin:
+⎧ x + 5 > 3
+⎨
+⎩ 2x - 1 ≤ 7
+Həll:
+
+Birinci: x > -2
+İkinci: x ≤ 4
+
+İntervallar oxunda:
+     -2      4
+──●══════●───
+Kəsişmə: x ∈ (-2, 4]
+Nümunə Məsələ:
+
+x² - 7x + 10 ≤ 0 bərabərsizliyini həll edin.
+
+Həll addımları:
+
+Müvafiq tənliyi həll edirik:
+
+x² - 7x + 10 = 0
+D = 49 - 40 = 9
+x = (7 ± 3)/2
+x₁ = 2, x₂ = 5
+Vuruqlara ayırırıq:
+
+x² - 7x + 10 = (x - 2)(x - 5)
+İşarə sxemini qururuq:
+
+     2    5
+───●──●───
+ +  0 - 0 +
+Test:
+
+x = 0: (0-2)(0-5) = (-2)(-5) = 10 > 0 ✓
+x = 3: (3-2)(3-5) = (1)(-2) = -2 < 0 ✓
+x = 6: (6-2)(6-5) = (4)(1) = 4 > 0 ✓
+Bərabərsizlik ≤ 0 olduğu üçün:
+
+Mənfi intervalı və kökləri seçirik
+Cavab: x ∈ [2, 5]
+
+Qrafik yoxlama: Parabola aşağı açılır (a = 1 > 0... yox, yanlış, yuxarı açılır). 2 və 5 arasında parabolanın ox altında qalan hissəsi həldir. ✓
+
+Ev Tapşırıqları:
+
+Real məhdudiyyət məsələsi: Avtobusda 45 yer var. Hər bilet 2 manat. Şirkət ən azı 60 manat qazanmaq istəyir. Minimum neçə bilet satmalıdır? Maksimum neçə bilet sata bilər? (Cavab: 30 ≤ x ≤ 45)
+
+Rasional bərabərsizlik:
+
+(x² - 9)/(x - 2) > 0
+bərabərsizliyini həll edin. İntervallar üsulundan istifadə edin. (İpucu: x² - 9 = (x-3)(x+3), məxrəc x ≠ 2)
